@@ -1,2 +1,1 @@
-# CV
-# CV
+This is a command-line test of my first GIT experience!
